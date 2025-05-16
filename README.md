@@ -13,6 +13,7 @@ This is an advanced password generator written in C that creates strong, randomi
 ## 🚀 Usage
 
 1. **Compile the code**:
+2. PasswordGenerator.c
 
 ```bash
 
